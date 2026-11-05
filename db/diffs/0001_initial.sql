@@ -1,0 +1,2 @@
+-- First database diff.
+-- The schema changes for this test are yours.
